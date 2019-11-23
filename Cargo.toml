@@ -1,0 +1,13 @@
+[package]
+name = "weather_forecast"
+version = "0.1.0"
+authors = ["Alexander Chuprynov <achuprynov@gmail.com>"]
+
+[dependencies]
+iron = "*"
+reqwest = "*"
+serde = "*"
+serde_json = "*"
+serde_derive = "*"
+router = "*"
+urlencoded = "*"
